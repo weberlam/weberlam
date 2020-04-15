@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 邊境的死詩人</title>
-    <link>http://www.weberlam.com/categories/</link>
+    <link>http://www.yanglin.io/categories/</link>
     <description>Recent content in Categories on 邊境的死詩人</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dead Poet at Limbo</copyright>
     <lastBuildDate>Wed, 15 Apr 2020 02:01:58 +0530</lastBuildDate>
     
-	<atom:link href="http://www.weberlam.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.yanglin.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>时事</title>
-      <link>http://www.weberlam.com/categories/%E6%97%B6%E4%BA%8B/</link>
+      <link>http://www.yanglin.io/categories/%E6%97%B6%E4%BA%8B/</link>
       <pubDate>Wed, 15 Apr 2020 02:01:58 +0530</pubDate>
       
-      <guid>http://www.weberlam.com/categories/%E6%97%B6%E4%BA%8B/</guid>
+      <guid>http://www.yanglin.io/categories/%E6%97%B6%E4%BA%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chinese</title>
-      <link>http://www.weberlam.com/categories/chinese/</link>
+      <link>http://www.yanglin.io/categories/chinese/</link>
       <pubDate>Thu, 14 Nov 2019 11:25:05 -0400</pubDate>
       
-      <guid>http://www.weberlam.com/categories/chinese/</guid>
+      <guid>http://www.yanglin.io/categories/chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Todo</title>
-      <link>http://www.weberlam.com/categories/todo/</link>
+      <link>http://www.yanglin.io/categories/todo/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://www.weberlam.com/categories/todo/</guid>
+      <guid>http://www.yanglin.io/categories/todo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>http://www.weberlam.com/categories/story/</link>
+      <link>http://www.yanglin.io/categories/story/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>http://www.weberlam.com/categories/story/</guid>
+      <guid>http://www.yanglin.io/categories/story/</guid>
       <description></description>
     </item>
     
